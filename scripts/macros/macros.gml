@@ -1,0 +1,1 @@
+#macro m_max_lights 512
