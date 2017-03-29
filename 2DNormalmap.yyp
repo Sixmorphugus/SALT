@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "011895ae-a3b8-4993-8301-9b149568517f",
-            "Value": {
-                "id": "c30340e7-d33f-423b-a927-f45d023d92cb",
-                "resourcePath": "sprites\\spr_head_S\\spr_head_S.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "03eef965-ecf1-4fd4-8b8d-b44a2ce5af72",
             "Value": {
                 "id": "13a87ed6-0ba5-4e6c-a1ce-5ba1fb30a5a1",
@@ -60,6 +52,14 @@
                 "id": "a7a0592c-579d-4eb1-b5a4-cdbaff41aedb",
                 "resourcePath": "scripts\\draw_self_lit\\draw_self_lit.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0b120407-3e32-4d39-a9fe-003ddb88a739",
+            "Value": {
+                "id": "4074f136-d2d2-47c2-854c-04cfec296285",
+                "resourcePath": "sprites\\spr_head_N\\spr_head_N.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -92,14 +92,6 @@
                 "id": "8d72e330-b0b0-49d4-9d85-13160ea791be",
                 "resourcePath": "objects\\obj_shadowTestRock\\obj_shadowTestRock.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "24ba9ac8-d44b-4c8d-88d1-d5673501251a",
-            "Value": {
-                "id": "7ff313de-98f5-40fb-a0bc-531f27def4ee",
-                "resourcePath": "sprites\\spr_head_N\\spr_head_N.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +132,14 @@
                 "id": "ce57d245-35ca-43da-8b1f-de7dbea31bcd",
                 "resourcePath": "views\\3186961f-ba28-45e4-aa6e-def4e880620b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "323c9623-317a-4475-b62b-b8a1b204df6f",
+            "Value": {
+                "id": "c0ead881-c021-4172-b3c2-4d0ff745a36f",
+                "resourcePath": "sprites\\spr_head_D\\spr_head_D.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -340,14 +340,6 @@
                 "id": "cdabee19-c2a6-4929-8aed-16c1b56fe366",
                 "resourcePath": "scripts\\draw_sprite_tiled_lit\\draw_sprite_tiled_lit.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "c63883cf-b67e-403a-92c9-acc5f8264113",
-            "Value": {
-                "id": "e7558856-101f-4114-b9f9-2ba7f8933bfd",
-                "resourcePath": "views\\c63883cf-b67e-403a-92c9-acc5f8264113.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
