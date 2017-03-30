@@ -1,4 +1,4 @@
-# SUPER_ALCHEMIST Lighting System (SALT)
+# SUPER_ALCHEMIST Lighting Tools (SALT)
 
 Modified version of the GameMaker: Studio Normal Mapping example expanded into a full lighting engine with support for:
 
